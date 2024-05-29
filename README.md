@@ -49,8 +49,6 @@ Každý model má dva nootebooky(zošity):
    - najprv odstránim atribút "id", ktorý nie je potrebný pre ďalšie spracovanie dát
    - premenujem si názvy atribútov z angličtiny do vhodného slovenského názvu
    - zobrazím si prvých 5 riadkov
-   - výpočet a zobrazenie korelačnej matice (vzťahy medzi atribútmi)
-   - výber atribútov s najvyššou koreláciou
    - škálovanie vstupných premenných
    - zistenie optimálneho počtu zhlukov pomocou Silhouette score
    - trénovanie modelu s optimálnym počtom zhlukov
